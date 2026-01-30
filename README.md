@@ -1,16 +1,21 @@
-# brentwood_weather_app
 
-A new Flutter project.
+# Brentwood Weather App
+
+This is a simple weather app built with Flutter for demo purposes.
+
+## Screenshot
+
+![App Screenshot](Screenshot.png)
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this app:
 
-A few resources to get you started if this is your first Flutter project:
+1. Ensure you have [Flutter](https://flutter.dev) installed.
+2. Run `flutter pub get` to fetch dependencies.
+3. Run `flutter run` to launch the app on your device or emulator.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For more information on Flutter, see the [official documentation](https://docs.flutter.dev/).
